@@ -1,0 +1,20 @@
+rofi.location:          6
+rofi.width:             100
+rofi.lines:             8
+rofi.fake-transparency: true
+rofi.fake-background:   screenshot
+rofi.padding:           392
+rofi.hide-scrollbar:    true
+rofi.line-margin:       0
+rofi.font:              Anonymous Pro 20
+rofi.bw:                0
+!-------------------------------------------------$
+! ROFI Color theme
+! ------------------------------------------------$
+rofi.color-window: argb:dd000021, #dbdfbc, #dbdfbc
+rofi.color-normal: argb:0000000, #dbdfbc, argb:000$
+rofi.color-urgent: argb:0000000, #ff81ff, argb:000$
+rofi.color-active: argb:0000000, #8ac4ff, argb:000$
+
+rofi.window-format: {t:-21} ({c:14})
+rofi.line-padding: 5
